@@ -1,0 +1,26 @@
+[
+  {
+    "select": "Display",
+    "options": ["flex", "inline-flex"]
+  },
+  {
+    "select": "Align-items",
+    "options": ["center", "flex-start", "flex-end", "baseline", "stretch"]
+  } ,{
+    "select": "Justify-content",
+    "options": ["space-around","space-between","center","flex-start", "flex-end"]
+  },
+  {
+    "select": "Align-content",
+    "options": ["center","flex-start", "flex-end","space-between","space-around","stretch"]
+  },
+  {
+    "select": "Flex-direction",
+    "options": ["row", "row-reverse","column", "column-reverse"]
+  },
+  {
+    "select": "Flex-wrap",
+    "options": ["wrap", "nowrap", "wrap-reverse"]
+  }
+
+]
